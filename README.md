@@ -13,7 +13,7 @@ The Depression Prediction System is a web application developed to predict the l
 ## Installation
 To run the Depression Prediction System locally, follow these steps:
 
-1. Clone the repository: git clone https://github.com/riddhijain7/Hack36.git
+1. Clone this repository.
 2. In the terminal run following commands: 
     -    cd backend <br>
     -    python -m venv .venv <br>
